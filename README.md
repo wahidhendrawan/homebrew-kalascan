@@ -4,12 +4,9 @@ Homebrew tap for [KalaScan](https://github.com/wahidhendrawan/KalaScan).
 
 ```bash
 brew tap wahidhendrawan/kalascan
+brew trust wahidhendrawan/kalascan
 brew install kalascan
 ```
-
-The KalaScan release repo is private, so `brew` needs a token to download the
-asset. Either export `HOMEBREW_GITHUB_API_TOKEN` (any token with `contents:read`
-on KalaScan) or run `brew install` from a shell where `gh auth token` works.
 
 ## Bumping the formula
 
