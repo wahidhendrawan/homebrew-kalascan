@@ -1,9 +1,9 @@
 class Kalascan < Formula
   desc "Security & malware scanner for Git repositories and IDE extensions"
   homepage "https://github.com/wahidhendrawan/KalaScan"
-  url "https://github.com/wahidhendrawan/KalaScan/releases/download/v1.9.0/kalascan-universal-apple-darwin.tar.gz"
-  sha256 "ed30f7a9680d850d34c4a6df31cee4639d31503f79048695cd5a586f46c33783"
-  version "1.9.0"
+  url "https://github.com/wahidhendrawan/KalaScan/releases/download/v1.10.0/kalascan-universal-apple-darwin.tar.gz"
+  sha256 "4176f21634e2119095d3e465164b0064d7ad6044e58a6f140e3f3f08979bf915"
+  version "1.10.0"
   license "GPL-3.0"
 
   def install
