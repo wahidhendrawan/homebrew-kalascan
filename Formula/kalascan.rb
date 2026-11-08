@@ -3,7 +3,6 @@ class Kalascan < Formula
   homepage "https://github.com/wahidhendrawan/KalaScan"
   url "https://github.com/wahidhendrawan/KalaScan/releases/download/v1.13.0/kalascan-universal-apple-darwin.tar.gz"
   sha256 "726487c959e3c46490b21f104d73ed5e9dba6e94dade082f40a99677571af03e"
-  version "1.13.0"
   license "GPL-3.0-only"
 
   def install
